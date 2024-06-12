@@ -1,6 +1,5 @@
 import React from 'react';
 import { Box, Image, Text, Flex } from '@chakra-ui/react';
-import { px } from 'framer-motion';
 
 const ImageGrid = () => {
   return (
